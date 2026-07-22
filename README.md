@@ -56,10 +56,6 @@ To ensure reliable evaluation:
 ```text
 Fake-News-Detection-Using-DistilBERT/
 │
-├── dataset/
-│   ├── Fake.csv
-│   └── True.csv
-│
 ├── Fake_News_Detection.ipynb
 │ 
 │
