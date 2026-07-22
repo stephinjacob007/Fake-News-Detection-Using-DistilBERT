@@ -63,10 +63,9 @@ Fake-News-Detection-Using-DistilBERT/
 ├── Fake_News_Detection.ipynb
 │ 
 │
-├── Images/
+├── Results/
 │   ├── confusion_matrix.png
 │   ├── roc_curve.png
-│   ├── classification_report.txt
 │   └── results.csv
 │
 ├── requirements.txt
